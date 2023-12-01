@@ -115,5 +115,6 @@ int main(int argc, char* argv[])
     delete textBox;
     delete factory;
 
+
     return a.exec();
 }
